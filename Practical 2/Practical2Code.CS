@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace INF154Prac2u22507176
+namespace INF154Prac2
 {
     public partial class Form1 : Form
     {
